@@ -364,10 +364,10 @@ section .title::after{
     width: 90%;
 }
 .skills-content .right .css::before{
-    width: 60%;
+    width: 70%;
 }
 .skills-content .right .js::before{
-    width: 80%;
+    width: 60%;
 }
 .skills-content .right .php::before{
     width: 70%;
